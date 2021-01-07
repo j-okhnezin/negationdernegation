@@ -1,0 +1,19 @@
+#+SETUPFILE: theme-readtheorg.setup
+
+#+TITLE: Negation der Negation
+#+AUTHOR: Jim Oknezhin
+#+DATE: [2021-01-07 Thu 13:37]
+
+* Test Title
+test content
+** Test Subtitle
+further experimentation requried to proceed
+- this is a list
+- yet another entry
+
+as you see, I am quite proficient at lorem ipsum
++ haha, yes
++ does this change anything?
+
+
+more wonderful spam spam
